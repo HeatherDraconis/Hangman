@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Hangman" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/my_dark_primary</item>
+        <item name="colorOnPrimary">@color/my_dark_secondary</item>
+        <item name="android:textColor">@color/my_dark_tertiary</item>
+        <item name="android:colorBackground">@color/black</item>
+    </style>
+
+    <style name="Theme.Hangman" parent="Base.Theme.Hangman"/>
+    <color name="my_dark_primary">#002000</color>
+    <color name="my_dark_secondary">#A0A0A0</color>
+    <color name="my_dark_tertiary">#006000</color>
+</resources>

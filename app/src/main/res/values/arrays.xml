@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hidden_words">
+        <item > GRYFFINDOR</item>
+        <item > RAVENCLAW</item>
+        <item > HUFFLEPUFF</item>
+        <item > SLYTHERIN</item>
+
+        <item > ANCIENT RUNES</item>
+        <item > ARITHMANCY</item>
+        <item > ASTRONOMY</item>
+        <item > CARE OF MAGICAL CREATURES</item>
+        <item > CHARMS</item>
+        <item > DEFENCE AGAINST THE DARK ARTS</item>
+        <item > DIVINATION</item>
+        <item > HERBOLOGY</item>
+        <item > HISTORY OF MAGIC</item>
+        <item > MUGGLE STUDIES</item>
+        <item > POTIONS</item>
+        <item > TRANSFIGURATION</item>
+
+        <item > ACCIO</item>
+        <item > ACID POPS</item>
+        <item > ACONITE</item>
+        <item > ACROMANTULA</item>
+        <item > ALCHEMY</item>
+        <item > ALOHOMORA</item>
+        <item > ANIMAGUS</item>
+        <item > ANTIVENOM</item>
+        <item > APARECIUM</item>
+        <item > APPARATE</item>
+        <item > AUROR</item>
+        <item > AZKABAN</item>
+
+        <item > BASALISK</item>
+        <item > BATBOGEY HEX</item>
+        <item > BEATER</item>
+        <item > BEAUXBATONS ACADEMY OF MAGIC</item>
+        <item > BERTIE BOTTS EVERY FLAVOUR BEANS</item>
+        <item > BEZOAR</item>
+        <item > BLACK FOREST</item>
+        <item > BLASTENDED SKREWT</item>
+        <item > BLOOD BLISTERPOD</item>
+        <item > BLOOD FLAVOURED LOLLIPOPS</item>
+        <item > BLUDGERS</item>
+        <item > BODYBIND CURSE</item>
+        <item > BOGGART</item>
+        <item > BORGIN AND BURKES</item>
+        <item > BOUNCING BULB</item>
+        <item > BOWTRUCKLE</item>
+        <item > BROOMSTICK</item>
+        <item > BUBBLEHEAD CHARM</item>
+        <item > BUBOTUBER PUS</item>
+        <item > BULBADOX POWDER</item>
+        <item > THE BURROW</item>
+        <item > BUTTERBEER</item>
+
+        <item > CANARY CREAMS</item>
+        <item > CENTAURS</item>
+        <item > THE CHAMBER OF SECRETS</item>
+        <item > CHASER</item>
+        <item > CHIMERA</item>
+        <item > CHOCOBALLS</item>
+        <item > CHOCOLATE FROGS</item>
+        <item > CLEANSWEEP SEVEN</item>
+        <item > COCKROACH CLUSTERS</item>
+        <item > COLLOPORTUS</item>
+        <item > COMET</item>
+        <item > COMMON ROOM</item>
+        <item > COMMON WELSH GREEN</item>
+        <item > CORNISH PIXIES</item>
+        <item > CRIBBAGES WIZARDING CRACKERS</item>
+        <item > CRUCIATUS CURSE</item>
+        <item > CRUMPLEHORNED SNORKACKS</item>
+        <item > CRUP</item>
+
+        <item > THE DAILY PROPHET</item>
+        <item > THE DARK MARK</item>
+        <item > DEATH EATERS</item>
+        <item > THE DEATHLY HALLOWS</item>
+        <item > DEATHDAY PARTY</item>
+        <item > DEFLATING DRAUGHT</item>
+        <item > DELUMINATOR</item>
+        <item > DEMENTOR</item>
+        <item > DENSAUGEO</item>
+        <item > DERVISH AND BANGES</item>
+        <item > DEVILS SNARE</item>
+        <item > DIAGON ALLEY</item>
+        <item > DIFFINDO</item>
+        <item > DISILLUSIONMENT CHARM</item>
+        <item > DISSENDIUM</item>
+        <item > DOXY</item>
+        <item > DRACO DORMIENS NUNQUAM TITILLANDUS</item>
+        <item > DRAUGHT OF LIVING DEATH</item>
+        <item > DRAUGHT OF PEACE</item>
+        <item > DROOBLES BEST BLOWING GUM</item>
+        <item > DUELLING CLUB</item>
+        <item > DUMBLEDORES ARMY</item>
+        <item > DUNGBOMB</item>
+        <item > DURMSTRANG INSTITUTE</item>
+
+        <item > EEYLOPS OWL EMPORIUM</item>
+        <item > THE ELDER WAND</item>
+        <item > ELIXIR OF LIFE</item>
+        <item > ENGORGIO</item>
+        <item > EVANESCO</item>
+        <item > EXPECTO PATRONUM</item>
+        <item > EXPELLIARMUS</item>
+        <item > EXPLODING BONBONS</item>
+        <item > EXPLODING SNAP</item>
+        <item > EXTENDABLE EARS</item>
+
+        <item > FAINTING FANCY</item>
+        <item > FERULA</item>
+        <item > FIDELIUS CHARM</item>
+        <item > FINITE INCANTATEM</item>
+        <item > FIREBOLT</item>
+        <item > FIZZING WHIZZBEES</item>
+        <item > FLAGRATE</item>
+        <item > FLOBBERWORM</item>
+        <item > FLOO POWDER</item>
+        <item > FLOREAN FORTESQUES ICECREAM PARLOUR</item>
+        <item > FLOURISH AND BLOTTS</item>
+        <item > FLUTTERBY BUSH</item>
+        <item > FOEGLASS</item>
+        <item > THE FORBIDDEN FOREST</item>
+        <item > FLYING FORD ANGLIA</item>
+        <item > FOUNTAIN OF MAGICAL BRETHREN</item>
+        <item > FOUR POINT SPELL</item>
+        <item > FUDGE FLIES</item>
+        <item > FURNUNCULUS</item>
+
+        <item > GALLEON</item>
+        <item > GAMBOL AND JAPES</item>
+        <item > GARROTTING GAS</item>
+        <item > GHOUL</item>
+        <item > GIANT</item>
+        <item > GILLYWEED</item>
+        <item > GNOMES</item>
+        <item > GOBLET OF FIRE</item>
+        <item > GOBLINS</item>
+        <item > GOBSTONES</item>
+        <item > GODRICS HOLLOW</item>
+        <item > GOLDEN SNITCH</item>
+        <item > THE GREAT HALL</item>
+        <item > GRIM</item>
+        <item > GRIMMAULD PLACE</item>
+        <item > GRINDYLOW</item>
+        <item > GRINGOTTS</item>
+        <item > GUBRAITHIAN FIRE</item>
+        <item > GURG</item>
+
+        <item > HAND OF GLORY</item>
+        <item > HEADLESS HAT</item>
+        <item > THE HEADLESS HUNT</item>
+        <item > HEALER</item>
+        <item > HEBRIDEAN BLACK</item>
+        <item > HELIOPATH</item>
+        <item > HELLEBORE</item>
+        <item > HEPTOMOLOGY</item>
+        <item > HINKYPUNK</item>
+        <item > HIPPOGRIFF</item>
+        <item > HIT WIZARDS</item>
+        <item > THE HOGS HEAD</item>
+        <item > HOGSMEADE</item>
+        <item > HOGWARTS SCHOOL OF WITCHCRAFT AND WIZARDRY</item>
+        <item > HONEYDUKES</item>
+        <item > THE HOUSE CUP</item>
+        <item > HOUSE ELF</item>
+        <item > HOWLER</item>
+
+        <item > ICE MICE</item>
+        <item > IMPEDIMENT JINX</item>
+        <item > IMPERIUS CURSE</item>
+        <item > IMPERTURBABLE CHARM</item>
+        <item > IMPERVIUS</item>
+        <item > INCARCEROUS</item>
+        <item > INCENDIO</item>
+        <item > THE INVISIBILITY CLOAK</item>
+
+        <item > JELLY SLUGS</item>
+        <item > JELLYLEGS JINX</item>
+
+        <item > KAPPA</item>
+        <item > KEEPER</item>
+        <item > THE KILLING CURSE</item>
+        <item > KINGS CROSS STATION</item>
+        <item > KNARL</item>
+        <item > KNEAZLE</item>
+        <item > THE KNIGHT BUS</item>
+        <item > KNOCKTURN ALLEY</item>
+        <item > KNUT</item>
+        <item > THE LEAKY CAULDRON</item>
+        <item > LEGILIMENCY</item>
+        <item > LEPRECHAUN</item>
+        <item > LOCOMOTOR</item>
+        <item > LUMOS</item>
+
+        <item > MADAM MALKINS</item>
+        <item > MAGICAL MENAGERIE</item>
+        <item > MADRAKE</item>
+        <item > MARAUDER</item>
+        <item > MERPEAOPLE</item>
+        <item > METAMOPHMAGUS</item>
+        <item > MIMBULUS MIMBLETONIA</item>
+        <item > MINISTRY OF MAGIC</item>
+        <item > MIRROR OF ERISED</item>
+        <item > MOBILIARBUS</item>
+        <item > MOBILICOPUS</item>
+        <item > MONKSHOOD</item>
+        <item > MORSMORDRE</item>
+        <item > MUGGLE</item>
+        <item > MURTLAP ESSENCE</item>
+
+        <item > NEWTS</item>
+        <item > NARGLES</item>
+        <item > NIFFLER</item>
+        <item > NIMBUS TWO THOUSAND</item>
+        <item > NORWEGIAN RIDGEBACK</item>
+        <item > NOSEBLEED NOUGAT</item>
+        <item > NOX</item>
+
+        <item > OWLS</item>
+        <item > OBLIVIATE</item>
+        <item > OCCLUMENCY</item>
+        <item > OLIVANDERS</item>
+        <item > OMNICULARS</item>
+        <item > THE ORDER OF THE PHOENIX</item>
+        <item > ORNITHOMANCY</item>
+
+        <item > PARSELTONGUE</item>
+        <item > PENSIEVE</item>
+        <item > PEPPER IMPS</item>
+        <item > PEPPERMINT TOADS</item>
+        <item > PEPPERUP</item>
+        <item > PETRIFICUS TOTALUS</item>
+        <item > THE PHILOSOPHERS STONE</item>
+        <item > PHOENIX</item>
+        <item > PLATFORM NINE AND THREE QUARTERS</item>
+        <item > POLTERGEIST</item>
+        <item > POLYJUICE POTION</item>
+        <item > PORLOCK</item>
+        <item > PORTKEY</item>
+        <item > PRIOR INCANTATO</item>
+        <item > PROTEGO</item>
+        <item > PUKING PASTILLES</item>
+        <item > PUMPKIN JUICE</item>
+        <item > PUMPKIN PASTY</item>
+
+        <item > QUAFFLE</item>
+        <item > QUALITY QUIDDITCH SUPPLIES</item>
+        <item > QUICK QUOTES QUILL</item>
+        <item > QUIDDITCH</item>
+
+        <item > RED CAP</item>
+        <item > REDUCIO</item>
+        <item > REDUCTO</item>
+        <item > RELASHIO</item>
+        <item > REMEMBRALL</item>
+        <item > RENNERVATE</item>
+        <item > REPARO</item>
+        <item > THE RESURRECTION STONE</item>
+        <item > RICTUSEMPRA</item>
+        <item > RIDDIKULUS</item>
+        <item > ROOM OF REQUIREMENT</item>
+
+        <item > SALAMANDER</item>
+        <item > SCOURGIFY</item>
+        <item > SCRIVENSHAFTS QUILL SHOP</item>
+        <item > SECRECY SENSORS</item>
+        <item > SEEKER</item>
+        <item > SEER</item>
+        <item > SELFSHUFFLING PLAYING CARDS</item>
+        <item > SHRIEKING SHACK</item>
+        <item > SIKLE</item>
+        <item > SILENCIO</item>
+        <item > SKELEGRO</item>
+        <item > SKIVING SNACKBOXES</item>
+        <item > SLEEKEAZYS HAIR POTION</item>
+        <item > SLOTH GRIP ROLL</item>
+        <item > SNEAKOSCOPES</item>
+        <item > SONORUS</item>
+        <item > SORTING HAT</item>
+        <item > SPELLOTAPE</item>
+        <item > SPLINCHING</item>
+        <item > SQUIB</item>
+        <item > STUPEFY</item>
+        <item > SWELLING SOLUTION</item>
+
+        <item > THE UNFORGIVABLE CURSES</item>
+        <item > WEASLEYS WIZARD WHEEZES</item>
+
+    </string-array>
+</resources>
